@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Комит для проверки ДЗ
 
-ДЗ к 1 уроку
+ДЗ к уроку 2 JSX
